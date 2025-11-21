@@ -1,0 +1,5 @@
+{
+  "name": "SigortaKiyasla",
+  "description": "Yapay zeka destekli sigorta teklifi ve poliçe karşılaştırma aracı. PDF ve Excel dosyalarını analiz ederek fiyat, teminat ve muafiyetleri karşılaştırır.",
+  "requestFramePermissions": []
+}
